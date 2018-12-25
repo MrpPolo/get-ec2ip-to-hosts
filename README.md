@@ -13,4 +13,4 @@ This README would normally document whatever steps are necessary to get your app
     * you need to install jq and aws cli
     * chmod +x /home/ubuntu/generatehostsfile.sh
     * init crontab
-    * \*/5 * * * * /home/ubuntu/generatehostsfile.sh
+      * \*/5 * * * * /home/ubuntu/generatehostsfile.sh
