@@ -11,6 +11,6 @@ This README would normally document whatever steps are necessary to get your app
 * Summary of set up
     * give bastion host server role with ec2 readonly policy 
     * you need to install jq and aws cli
-    * chmode +x /home/ubuntu/generatehostsfile.sh
+    * chmod +x /home/ubuntu/generatehostsfile.sh
     * init crontab
     * \*/5 * * * * /home/ubuntu/generatehostsfile.sh
